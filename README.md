@@ -19,7 +19,7 @@ To use Posseth.SafeWebCore in your web application, follow these steps:
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/your-username/posseth-safewebcore).
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/MPCoreDeveloper/posseth-safewebcore).
 
 ## License
 
