@@ -24,3 +24,4 @@ packages/
 # Uncomment if necessary however generally it will be regenerated if needed
 #!packages/repositories.config
 .nuget/
+/Posseth.SafeWebCore.sln
